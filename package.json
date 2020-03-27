@@ -12,6 +12,7 @@
   "dependencies": {
     "admin-lte": "^3.0.2",
     "angular": "^1.7.9",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mysql": "^2.18.1"
   }
